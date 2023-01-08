@@ -6,4 +6,4 @@ Zihan Kalila (1303201182)
 Bonefasia S Stelamaris(1303204084)
 Rizqi Maulana Satya Akbar (1303204128)
 
-Class Diagram = https://app.diagrams.net/#G1hPw4Ell5tjBoYVWODpaligSDKjHW2GBg
+Class Diagram = https://drive.google.com/file/d/1w0_AQJHm2oE4IbKO8v3zhcDDEcd2ZQdu/view?usp=sharing 
